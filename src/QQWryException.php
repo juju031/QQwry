@@ -1,9 +1,9 @@
 <?php
-namespace juju\QQWry;
+namespace juju\qqwry;
 
 use Exception;
 
-class QQWryException extends Exception
+class qqwryexception extends Exception
 {
 
 	//

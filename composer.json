@@ -1,7 +1,7 @@
 {
-    "name": "juju/QQWry",
+    "name": "juju/qqwry",
     "description": "纯真 IP 库 Laravel 版 。",
-    "keywords": ["QQWry", "L5", "Laravel 5", "Laravel"],
+    "keywords": ["qqwry", "L5", "Laravel 5", "Laravel"],
     "license": "MIT",
     "authors": [
         {
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "juju\\QQWry\\": "src/"
+            "juju\\qqwry\\": "src/"
         }
     },
     "minimum-stability": "stable"

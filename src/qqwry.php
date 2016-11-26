@@ -1,5 +1,5 @@
 <?php
-namespace juju\QQWry;
+namespace juju\qqwry;
 
 use Illuminate\Support\Collection;
 
@@ -8,7 +8,7 @@ use Illuminate\Support\Collection;
  *
  * @author Latrell Chan
  */
-class QQWry
+class qqwry
 {
 
 	public $encoding = 'UTF-8';

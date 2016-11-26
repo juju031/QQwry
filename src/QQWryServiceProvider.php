@@ -1,9 +1,9 @@
 <?php
-namespace juju\QQWry;
+namespace juju\qqwry;
 
 use Illuminate\Support\ServiceProvider;
 
-class QQWryServiceProvider extends ServiceProvider
+class qqwryserviceprovider extends ServiceProvider
 {
 
 	/**
